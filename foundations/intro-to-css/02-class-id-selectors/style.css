@@ -1,14 +1,19 @@
 p {
-  /* hex example: */
-  color: #1100ff;
+  background-color:pink;
+  font-family: Verdana, DejaVu Sans ,sans-serif;
 }
 
-p {
-  /* rgb example: */
-  color: rgb(100, 0, 127);
+#zoom{color: blue;
+    font-size: 36px;
+
+}
+.n3{
+    font-size: 24px;
+}
+#n5{
+    background-color: green;
+    font-size: 24px;
+    font-weight: 600 ;
 }
 
-p {
-  /* hsl example: */
-  color: hsl(15, 82%, 56%);
-}
+
